@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "category": "men's sneakers",
+      "description": "Running is your daily ritual, with every step taking you closer to your personal goal. Let the Nike Air Zoom Pegasus 39 help you ascend to new heights—whether you're training or jogging—with its intuitive design. More lightweight up top than the Pegasus 38 and ideal to wear in any season, it has a supportive sensation to help keep your feet contained, while underfoot cushioning and double Zoom Air units (1 more than the Peg 38) give you an extra pop to your step. Your trusted workhorse with wings is back. Time to fly.",
+      "id": 1,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/9a50da4b-eead-4330-8a03-05fa4957f765/air-zoom-pegasus-39-road-running-shoes-JNVFbf.png",
+      "price": 6310,
+      "title": "Nike Air Zoom Pegasus 39"
+    },
+    {
+      "category": "men's sneakers",
+      "description": "The Nike Legend Essential 2 comes equipped with a flat, stable heel, flexibility under the toes and side-to-side support. With tons of grip, you're ready to lift, HIIT, conquer a class or get stronger on the machines.",
+      "id": 2,
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/a6e84b0b-f63b-45d4-8ace-60eb32f902d4/legend-essential-2-training-shoe-8F0lSC.png",
+      "price": 3153,
+      "title": "Nike Legend Essential 2"
+    }
+  ]
+}
