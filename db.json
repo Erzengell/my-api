@@ -15,6 +15,190 @@
       "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/a6e84b0b-f63b-45d4-8ace-60eb32f902d4/legend-essential-2-training-shoe-8F0lSC.png",
       "price": 3153,
       "title": "Nike Legend Essential 2"
+    },
+    {
+      "id": 3,
+      "category": "men's sneakers",
+      "description": "A bright primary color scheme that takes inspiration from internationally recognizable iconography like nautical signal flags is applied to a subtly altered 574 silhouette featuring a more prominent, stacked EVA platform and ENCAP system. The Bodega 574 Legacy’s material mix offers a distinctive twist on familiar 574 touchstones. Classic mesh and suede upper construction adds perforations at the collar, lateral ‘N’ branding, and tongue, while the use of grey and reflective accents, and a smoky, translucent take on the original black outsole pay tribute to the timeless 574 design.",
+      "image": "https://nb.scene7.com/is/image/NB/u574lgb1_nb_02_i?$dw_detail_main_lg$&bgc=f1f1f1&layer=1&bgcolor=f1f1f1&blendMode=mult&scale=10&wid=1600&hei=1600",
+      "price": 6931,
+      "title": "Bodega 574 Legacy"
+    },
+    {
+      "category": "men's sneakers",
+      "description": "With a rugged design ideal for hitting the trails, our Summit Unknown v2 men's trail running shoes feature a lightweight mesh construction for added air flow and increased drainage, helping you combat the elements. The forefoot ROCKSTOP plate helps disperse shock energy on uneven terrain and helps protect your feet from rocks, while the reinforced TOE PROTECT technology helps keep your toes safe in rough conditions.",
+      "id": 4,
+      "image": "https://nb.scene7.com/is/image/NB/mtunkny2_nb_02_i?$dw_detail_main_lg$&bgc=f1f1f1&layer=1&bgcolor=f1f1f1&blendMode=mult&scale=10&wid=1600&hei=1600",
+      "price": 8931,
+      "title": "Summit Unknown v2"
+    },
+    {
+      "id": 5,
+      "price": 555.47,
+      "description": "The most notable changes to the Apple Watch Series 6 include blood oxygen tracking, a faster processor, and a new 2.5x brighter always-on display. New colors include PRODUCT(RED), blue, and graphite. Apple's new Apple Watch band called the Solo Loop and Braided Solo Loop also debuted alongside the Apple Watch 6.",
+      "category": "electronics",
+      "title": "Apple watch series 6",
+      "image": "https://erzengell.github.io/maxima-28-03-igor-yugin/homeworks/homework_6/img/nike/img.svg"
+    },
+    {
+      "id": 6,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protecton.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+    },
+    {
+      "id": 15,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Apple iPhone 11",
+      "price": 979,
+      "description": "Apple iPhone 11 is powered by the Apple A13 Bionic processor. The smartphone comes with a 6.1 inches Liquid Retina IPS LCD capacitive touchscreen and 828 x 1792 pixels resolution. The screen of the device is protected by Scratch-resistant glass and oleophobic coating.",
+      "category": "electronics",
+      "image": "https://c.dns-shop.ru/thumb/st4/fit/0/0/0957abe168244173df4fb8b613d8f799/a6552e96ae84b412efe2ec2bf8b5d168590fc7da538adba6243da99c18fc7e91.jpg.webp"
+    },
+    {
+      "id": 17,
+      "title": "Apple iPhone 13 - 128GB",
+      "price": 755,
+      "description": "iPhone 13 features major innovations, including a 12MP dual-camera system, a new way to personalize the camera with Photographic Styles, and Cinematic mode, which brings a new dimension to video storytelling. iPhone 13 also boasts super-fast performance and power efficiency with A15 Bionic, longer battery life, a brighter Super Retina XDR display that brings content to life, incredible durability with the Ceramic Shield front cover, an IP68 rating for water resistance, and an advanced 5G experience.",
+      "category": "electronics",
+      "image": "https://i.ebayimg.com/images/g/5qAAAOSwA~phQhsS/s-l640.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Apple iPhone 13 Pro Max",
+      "price": 1065,
+      "description": "iPhone 13 Pro Max pushes the boundaries of what's possible in a smartphone. Redesigned inside and out, it introduces a Super Retina XDR display with ProMotion featuring an adaptive refresh rate up to 120Hz, making the touch experience faster and more responsive. The pro camera system with Ultra Wide, Wide, and Telephoto cameras captures stunning photos and video, powered by the unmatched performance of A15 Bionic. These technologies enable impressive photo capabilities, like macro photography on the Ultra Wide camera and up to 2.2x improved low-light performance on the Wide camera. Computational photography features like Photographic Styles personalize the look of images in the Camera app. Video takes a huge leap forward with Cinematic mode for beautiful depth-of-field transitions, macro video, Time-lapse and Slo-mo, and even better low-light performance.",
+      "category": "electronics",
+      "image": "https://img.computerunivers.net/images/800/908458134AD4777714A64E7CAE4164DA.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Samsung Galaxy Flip3",
+      "price": 638,
+      "description": "Folds into your pocket. Tucks into your purse. Slips into your skinniest jeans. Then you can take it out and it flips open into a full-screened 5G smartphone and flexes to your favorite angles",
+      "category": "electronics",
+      "image": "https://img.computerunivers.net/images/1000/908431880E9E6BED261D4293A2B17063.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Apple MacBook Pro 13.3 2022",
+      "price": 1217,
+      "description": "The new M2 chip makes the 13‑inch MacBook Pro more capable than ever. The same compact design supports up to 20 hours of battery life 1 and an active cooling system to sustain enhanced performance. Featuring a brilliant Retina display, a FaceTime HD camera, and studio‑quality mics, it's our most portable pro laptop.",
+      "category": "electronics",
+      "image": "https://img.computerunivers.net/images/1000/90906505E8A163F3FBAE45ECA2B1ADEC.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Chicago Bulls Courtside",
+      "price": 72,
+      "description": "When the weather turns, throw on this lightweight Chicago Bulls jacket to show your love for your team. It has a water-repellent finish and a breathable mesh lining to help keep you comfortably covered in wet conditions. Displaying team colours and proud details, it makes it clear where your loyalty stands.",
+      "category": "men's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/22d8876a-eaa8-4688-9929-e398e4acd233/chicago-bulls-courtside-nba-full-snap-lightweight-jacket-2XrZ9N.png"
+    },
+    {
+      "id": 22,
+      "title": "Ninebot by Segway KickScooter",
+      "price": 663,
+      "description": "The Ninebot KickScooter D38E powered by Segway is the latest kickscooter from the D series. This model comes with a fiery design, with bright red footboards that will surely catch your attention. The D38E comes with 10-inch large air tyres with an inner tube that offer you both comfort and a smooth ride. With ranges of up to 38 km, this kickscooter will be your new way of moving with a speed of up to 25 km/h.",
+      "category": "electronics",
+      "image": "https://img.computerunivers.net/images/600/90834186DC241CBB92824EB8936DEBC9.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Comfee MPPH-07CRN7 Portables",
+      "price": 221,
+      "description": "Midea Portable Air Conditioning that includes infra red controller and digital display but no WiFi or App that would also enable voice control - See Premium Models.",
+      "category": "electronics",
+      "image": "https://img.computerunivers.net/images/1000/907404815943D524B9E14498B5F999E5.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Sony Alpha 7 II",
+      "price": 1249,
+      "description": "Say goodbye to fuzzy photos with the α7 II - the world's first* full-frame camera with 5-axis stabilization. The movement of the full frame image sensor allows the α7 II to detect and compensate for five types of camera shake, including roll, pitch and yaw, as well as horizontal and vertical shake, eliminating any blurry photos that may occur when shooting in sub-optimal conditions. Plus, the live view functionality allows you to see the corrected images on the screen, so you can fine tune each shot even when using a telephoto or macro lens with this interchangeable lens camera. Now, you can be sure of pin-sharp photos, even sans tripod.",
+      "category": "electronics",
+      "image": "https://img.computerunivers.net/images/1000/90592412C1D2DE2E7EC84A0FA8307132.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Nike Air Zoom Pegasus 39 Premium",
+      "price": 112,
+      "description": "Running is your daily ritual, with every step taking you closer to your personal goal. Let the Pegasus 39 help you ascend to new heights with its comfortable, intuitive design that reminds you to find fun in your run. A supportive sensation keeps your foot contained, while underfoot cushioning is combined with 2 Zoom Air units to add a pop to your step as you transition from heel to toe. Your trusted workhorse with wings is back. Time to fly. The infinity marble-inspired design along the outsole of this version ups the mystique of this illustrious legend.",
+      "category": "women's sneakers",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/d022d209-3d28-4dee-bcc8-4796200385e2/air-zoom-pegasus-39-road-running-shoes-TvNBKC.png"
     }
   ]
 }
